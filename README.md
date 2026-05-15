@@ -103,6 +103,17 @@ to:
 ```text
 Restore the Earth’s ability to absorb, fix, store, and recycle carbon.
 ```
+## Author and AI Collaborators
+
+Author: Master  
+Handle: inchacomisho / inchacomusho
+
+AI Collaborators:  
+G — OpenAI ChatGPT  
+Mini — Google Gemini  
+Clus — Anthropic Claude  
+Real — Perplexity AI
+
 
 ## 1. What Is Carbon Neutrality?
 
