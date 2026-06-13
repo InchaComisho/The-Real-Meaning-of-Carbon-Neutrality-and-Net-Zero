@@ -1,5 +1,17 @@
 # The Real Meaning of Carbon Neutrality and Net Zero: Not Only Emission Accounting, but Restoration of Carbon Fixation Systems
 
+**Language:** English | [日本語版はこちら / Japanese Version](README_ja.md)
+
+## The Real Meaning of Carbon Neutrality and Net Zero
+
+**An integrated climate strategy for restoring carbon sinks, carbon fixation systems, and natural circulation — beyond numerical emission accounting**
+
+**Author:** Master / inchacomusho / InchaComisho  
+**AI Collaborators:** G (OpenAI ChatGPT) / Mini (Google Gemini) / Cruz (Anthropic Claude) / Real (Perplexity AI)  
+**License:** Fully Open
+
+---
+
 ## Abstract
 
 Carbon neutrality and net zero are often explained as achieving “effectively zero emissions.”
@@ -7,7 +19,7 @@ Carbon neutrality and net zero are often explained as achieving “effectively z
 This explanation is partly correct.
 
 In scientific and policy contexts, net zero generally means that greenhouse gas emissions entering the atmosphere are balanced by removals from the atmosphere.  
-For CO₂, the IPCC defines net zero CO₂ emissions as a state in which anthropogenic CO₂ emissions are balanced globally by anthropogenic CO₂ removals over a specified period.
+For CO₂, net zero CO₂ emissions means that anthropogenic CO₂ emissions are balanced globally by anthropogenic CO₂ removals over a specified period.
 
 However, the concept becomes incomplete when it is reduced to accounting, offsets, credits, or numerical balancing alone.
 
@@ -31,43 +43,15 @@ Recovery of soil, forest, ocean, wetland, and microbial circulation
 
 In other words, carbon neutrality and net zero should not mean only that human society emits less carbon.
 
-They should mean that the Earth regains its ability to absorb, fix, store, and recycle carbon.
+They should mean that Earth regains its ability to absorb, fix, store, and recycle carbon.
 
-The conventional model is:
-
-```text
-Human activity
-→ CO₂ emissions
-→ Global warming
-→ Reduce emissions
-→ Achieve carbon neutrality or net zero
-```
-
-This document proposes a deeper model:
-
-```text
-Human activity
-→ Fossil fuel use, deforestation, soil degradation, ocean stress, wetland loss, and microbial decline
-→ Weakening of carbon fixation and carbon absorption systems
-→ CO₂ becomes harder to absorb, fix, store, and recycle
-→ Atmospheric CO₂ accumulates
-→ Global warming and climate change accelerate
-→ Natural carbon sinks weaken further
-→ Emission accounting alone becomes insufficient
-```
-
-Therefore, the next stage of climate strategy must move:
-
-```text
-From carbon neutrality as accounting
-to carbon neutrality as planetary carbon-cycle restoration.
-```
+---
 
 ## Core Thesis
 
 Carbon neutrality and net zero are necessary.
 
-But carbon neutrality and net zero are not sufficient if they are treated only as numerical targets.
+But they are not sufficient if they are treated only as numerical targets.
 
 The climate crisis is not only an emissions crisis.
 
@@ -86,10 +70,10 @@ True carbon neutrality requires more than reducing emissions and purchasing offs
 
 It requires restoring the natural systems that make carbon balance physically real.
 
-The Earth is not only being overloaded with carbon.
+Earth is not only being overloaded with carbon.
 
 ```text
-The Earth is losing its ability to process carbon.
+Earth is losing its ability to process carbon.
 ```
 
 Therefore, climate strategy must evolve from:
@@ -101,19 +85,10 @@ Make the numbers net zero.
 to:
 
 ```text
-Restore the Earth’s ability to absorb, fix, store, and recycle carbon.
+Restore Earth’s ability to absorb, fix, store, and recycle carbon.
 ```
-## Author and AI Collaborators
 
-Author: Master  
-Handle: inchacomisho / inchacomusho
-
-AI Collaborators:  
-G — OpenAI ChatGPT  
-Mini — Google Gemini  
-Cruz — Anthropic Claude  
-Real — Perplexity AI
-
+---
 
 ## 1. What Is Carbon Neutrality?
 
@@ -135,33 +110,9 @@ CO₂ absorbed or removed
 effectively zero
 ```
 
-Carbon neutrality is often used by:
+Carbon neutrality is often used by countries, cities, companies, products, services, events, organizations, and supply chains.
 
-```text
-Countries
-Cities
-Companies
-Products
-Services
-Events
-Organizations
-Supply chains
-```
-
-It is usually associated with:
-
-```text
-Renewable energy
-Energy efficiency
-Emission reduction
-Carbon credits
-Carbon offsets
-Forest conservation
-Afforestation
-Reforestation
-Carbon capture
-Carbon removal
-```
+It is usually associated with renewable energy, energy efficiency, emission reduction, carbon credits, carbon offsets, forest conservation, afforestation, reforestation, carbon capture, and carbon removal.
 
 These actions can be important.
 
@@ -169,11 +120,13 @@ However, the problem begins when carbon neutrality becomes only a matter of calc
 
 If carbon neutrality is treated only as a balance sheet, it may fail to restore the actual Earth systems that regulate carbon.
 
+---
+
 ## 2. What Is Net Zero?
 
 Net zero means that greenhouse gases entering the atmosphere are balanced by greenhouse gases removed from the atmosphere.
 
-For CO₂, net zero is especially important because global warming caused by CO₂ is expected to stop increasing once global net zero CO₂ emissions are reached and sustained.
+For CO₂, net zero is especially important because CO₂-driven warming is expected to stop increasing once global net zero CO₂ emissions are reached and sustained.
 
 A simplified definition is:
 
@@ -185,21 +138,13 @@ Greenhouse gases removed from the atmosphere
 
 Net zero usually has a broader climate-policy meaning than carbon neutrality.
 
-It often includes:
-
-```text
-CO₂
-Methane
-Nitrous oxide
-Fluorinated gases
-Other greenhouse gases
-```
-
-Net zero is widely used in international climate policy because the Paris Agreement calls for a balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases in the second half of this century.
+It often includes CO₂, methane, nitrous oxide, fluorinated gases, and other greenhouse gases.
 
 However, net zero must not become a way to delay real emission reduction.
 
 A credible net zero strategy should first reduce emissions as much as possible, then remove or compensate only for residual emissions that are difficult to eliminate.
+
+---
 
 ## 3. Carbon Neutrality and Net Zero: Similar but Not Always Identical
 
@@ -219,21 +164,13 @@ Often used for economy-wide or global greenhouse gas targets, including CO₂ an
 
 In global climate science, net zero CO₂ and carbon neutrality can overlap.
 
-At smaller scales, such as companies or products, the terms can differ depending on:
-
-```text
-Which gases are included
-Which emissions scopes are counted
-Whether offsets are used
-Whether removals are temporary or permanent
-Whether land-use emissions are included
-Whether supply-chain emissions are included
-Whether the target is science-aligned
-```
+At smaller scales, such as companies or products, the terms can differ depending on which gases are included, which emissions scopes are counted, whether offsets are used, whether removals are temporary or permanent, whether land-use emissions are included, whether supply-chain emissions are included, and whether the target is science-aligned.
 
 The important point is not the label.
 
 The important point is whether the strategy creates real atmospheric and ecological balance.
+
+---
 
 ## 4. The Accounting Problem
 
@@ -247,7 +184,7 @@ Claim neutrality.
 
 This is dangerous.
 
-Because accounting neutrality is not the same as physical restoration.
+Accounting neutrality is not the same as physical restoration.
 
 A company may emit CO₂ in one place and buy credits from a forest project somewhere else.
 
@@ -269,7 +206,7 @@ Does it protect water cycles?
 
 If these questions are ignored, carbon neutrality becomes a numerical claim rather than a planetary recovery strategy.
 
-The UNFCCC has also emphasized that offsets are not a long-term solution and do not replace the need to move toward zero emissions as quickly as possible.
+---
 
 ## 5. “Net Zero” Is Not the Same as “Zero Emissions”
 
@@ -278,8 +215,6 @@ The phrase “net zero” can be misleading.
 Net zero does not necessarily mean zero emissions.
 
 It means that remaining emissions are balanced by removals.
-
-This distinction matters.
 
 ```text
 Zero emissions:
@@ -291,10 +226,8 @@ Some emissions may remain, but they are balanced by removals.
 
 The problem is that removals are not all equal.
 
-Some removals are temporary.
-
-Some are uncertain.
-
+Some removals are temporary.  
+Some are uncertain.  
 Some are vulnerable to reversal.
 
 For example:
@@ -323,6 +256,8 @@ Deep emission reduction first.
 Durable removals for residual emissions.
 Real ecosystem restoration as a foundation.
 ```
+
+---
 
 ## 6. The Missing Question: What Is Being Balanced?
 
@@ -364,17 +299,7 @@ Human industrial emissions
 - Durable carbon removal
 ```
 
-Most public carbon-neutrality discussions emphasize:
-
-```text
-Human industrial emissions
-```
-
-and sometimes:
-
-```text
-Offsets or removals
-```
+Most public carbon-neutrality discussions emphasize human industrial emissions and sometimes offsets or removals.
 
 But they often underemphasize:
 
@@ -391,6 +316,8 @@ Biodiversity resilience
 
 This is the missing half of carbon neutrality.
 
+---
+
 ## 7. CO₂ Is Both a Cause and a Symptom
 
 CO₂ is a greenhouse gas.
@@ -403,7 +330,7 @@ However, CO₂ accumulation is also a symptom of a deeper planetary failure.
 
 CO₂ has increased because humans emitted it.
 
-But CO₂ also continues to accumulate because the Earth’s natural absorption and fixation systems have been weakened.
+But CO₂ also continues to accumulate because Earth’s natural absorption and fixation systems have been weakened.
 
 Therefore, CO₂ is:
 
@@ -437,6 +364,8 @@ Rebuild natural carbon fixation systems.
 
 This is the deeper meaning of carbon neutrality and net zero.
 
+---
+
 ## 8. What Are Carbon Fixation Systems?
 
 Carbon fixation systems are the natural mechanisms that absorb, store, transform, or recycle carbon within the Earth system.
@@ -468,23 +397,13 @@ These systems are not passive scenery.
 
 They are planetary infrastructure.
 
-They regulate:
-
-```text
-Carbon
-Water
-Nutrients
-Temperature
-Biodiversity
-Soil fertility
-Food production
-Climate stability
-Ecosystem resilience
-```
+They regulate carbon, water, nutrients, temperature, biodiversity, soil fertility, food production, climate stability, and ecosystem resilience.
 
 A real carbon-neutral world cannot exist without these systems.
 
-If they decline, the Earth’s ability to maintain carbon balance also declines.
+If they decline, Earth’s ability to maintain carbon balance also declines.
+
+---
 
 ## 9. Soil Carbon: The Hidden Foundation of Net Zero
 
@@ -509,11 +428,12 @@ When soils regenerate, they can store more carbon and support stronger ecosystem
 
 This means soil regeneration is not only an agricultural issue.
 
-It is a net zero issue.
-
+It is a net zero issue.  
 It is a carbon-neutrality issue.
 
 A carbon-neutral strategy that ignores soil carbon is incomplete.
+
+---
 
 ## 10. Microorganisms: The Invisible Carbon Workers
 
@@ -546,27 +466,15 @@ If microbial ecosystems collapse, the soil carbon system weakens.
 
 If soil carbon weakens, net zero becomes harder to achieve in physical reality.
 
+---
+
 ## 11. Forests Are Not Just Carbon Numbers
 
 Forests are often used in carbon offset projects.
 
 But a forest is not just a carbon stock.
 
-A real forest is a living system involving:
-
-```text
-Trees
-Understory plants
-Soil
-Fungi
-Microorganisms
-Insects
-Animals
-Water cycles
-Nutrient cycles
-Biodiversity
-Local climate regulation
-```
+A real forest is a living system involving trees, understory plants, soil, fungi, microorganisms, insects, animals, water cycles, nutrient cycles, biodiversity, and local climate regulation.
 
 A monoculture plantation is not the same as a mature, diverse forest.
 
@@ -584,6 +492,8 @@ Is the ecosystem resilient to fire, drought, and disease?
 ```
 
 If these questions are ignored, forest offsets may create weak or temporary carbon claims.
+
+---
 
 ## 12. Oceans and the Net Zero Problem
 
@@ -611,6 +521,8 @@ The ocean is not merely a background absorber.
 It is a living and physical carbon-regulation system.
 
 Protecting and restoring marine ecosystems should be part of climate strategy.
+
+---
 
 ## 13. Why Offsets Alone Cannot Solve the Problem
 
@@ -650,6 +562,8 @@ Emission reduction should be primary.
 Carbon fixation restoration should be structural.
 ```
 
+---
+
 ## 14. The Core Limitation of Carbon Neutrality
 
 The main limitation of carbon neutrality is that it can become too narrow.
@@ -686,13 +600,15 @@ Organic matter circulation
 
 If these systems collapse, numerical carbon neutrality will not be enough.
 
+---
+
 ## 15. From Net Zero to Net Positive
 
 Net zero should not be the final goal.
 
 It should be a transitional milestone.
 
-Because the Earth’s carbon fixation systems have already been damaged, simply reaching balance may not be enough.
+Because Earth’s carbon fixation systems have already been damaged, simply reaching balance may not be enough.
 
 The next goal should be net positive restoration.
 
@@ -725,6 +641,8 @@ Net zero prevents further imbalance.
 
 Net positive restoration repairs past damage.
 
+---
+
 ## 16. Carbon Neutrality as Planetary Metabolism Restoration
 
 A useful analogy is the human body.
@@ -733,7 +651,7 @@ If the body has a fever, lowering the temperature may help.
 
 But if the fever is caused by infection, inflammation, or organ failure, the deeper cause must be treated.
 
-Global warming is the Earth’s fever.
+Global warming is Earth’s fever.
 
 Climate change is the wider systemic disorder.
 
@@ -754,25 +672,25 @@ Water cycles are circulatory systems.
 
 True carbon neutrality means restoring the metabolism of the planet.
 
+---
+
 ## 17. Proposed Causal Model
 
 The proposed causal model is:
 
-```mermaid
-flowchart TD
-    A[Human activity] --> B[Fossil fuel use and land-use change]
-    A --> C[Deforestation, soil degradation, wetland loss, ocean stress]
-    C --> D[Microbial decline and ecosystem simplification]
-    D --> E[Weakening of carbon fixation systems]
-    E --> F[Weakening of carbon sinks]
-    B --> G[CO₂ emissions]
-    F --> H[Less carbon absorbed, fixed, stored, and recycled]
-    G --> I[Atmospheric CO₂ accumulation]
-    H --> I
-    I --> J[Global warming]
-    J --> K[Climate change: drought, fires, floods, ocean stress]
-    K --> L[Further damage to carbon sinks]
-    L --> E
+```text
+Human activity
+→ Fossil fuel use and land-use change
+→ Deforestation, soil degradation, wetland loss, ocean stress
+→ Microbial decline and ecosystem simplification
+→ Weakening of carbon fixation systems
+→ Weakening of carbon sinks
+→ Less carbon absorbed, fixed, stored, and recycled
+→ Atmospheric CO₂ accumulation
+→ Global warming
+→ Climate change: drought, fires, floods, ocean stress
+→ Further damage to carbon sinks
+→ Further weakening of carbon fixation systems
 ```
 
 This model shows why carbon neutrality must be more than accounting.
@@ -791,13 +709,15 @@ Restore carbon fixation systems
 Protect and regenerate natural sinks
 ```
 
-## 18. A More Complete Definition of Carbon Neutrality
+---
+
+## 18. A More Complete Definition
 
 A more complete definition of carbon neutrality should be:
 
 ```text
 Carbon neutrality is not merely a numerical balance between emissions and offsets.
-It is a state in which human emissions are deeply reduced, residual emissions are durably removed, and the Earth’s natural carbon fixation systems are restored so that carbon can be absorbed, fixed, stored, and recycled within stable ecological cycles.
+It is a state in which human emissions are deeply reduced, residual emissions are durably removed, and Earth’s natural carbon fixation systems are restored so that carbon can be absorbed, fixed, stored, and recycled within stable ecological cycles.
 ```
 
 A more complete definition of net zero should be:
@@ -806,6 +726,8 @@ A more complete definition of net zero should be:
 Net zero is not only the balance between greenhouse gas emissions and removals.
 It is the restoration of a real planetary balance in which emissions, removals, carbon sinks, soil carbon, ocean absorption, microbial circulation, forests, wetlands, and water cycles function together as a stable Earth system.
 ```
+
+---
 
 ## 19. Practical Strategy for Real Net Zero
 
@@ -849,6 +771,8 @@ The goal should be:
 Reach real carbon balance in the Earth system.
 ```
 
+---
+
 ## 20. Original Contribution of This Model
 
 The importance of carbon neutrality and net zero is widely recognized.
@@ -876,10 +800,8 @@ The contribution of this document is to integrate them into a single causal and 
 
 ```text
 Carbon neutrality and net zero are incomplete
-unless they restore the Earth’s carbon fixation systems.
+unless they restore Earth’s carbon fixation systems.
 ```
-
-To the author’s current knowledge, this specific framing is not commonly presented as the central explanation of carbon neutrality and net zero in public search results, government summaries, or mainstream climate communication.
 
 This document therefore proposes a missing strategic layer:
 
@@ -888,16 +810,7 @@ Carbon neutrality must move from emission accounting
 to planetary carbon-cycle restoration.
 ```
 
-## Author and AI Collaborators
-
-Author: Master  
-Handle: inchacomisho / inchacomusho
-
-AI Collaborators:  
-G — OpenAI ChatGPT  
-Mini — Google Gemini  
-Cruz — Anthropic Claude  
-Real — Perplexity AI
+---
 
 ## 21. Conclusion
 
@@ -909,7 +822,7 @@ A society can claim carbon neutrality on paper while soils degrade, forests burn
 
 That is not true carbon neutrality.
 
-True carbon neutrality means reducing emissions and restoring the Earth’s ability to process carbon.
+True carbon neutrality means reducing emissions and restoring Earth’s ability to process carbon.
 
 True net zero means more than balancing emissions and removals.
 
@@ -929,7 +842,7 @@ to real Earth-system recovery.
 
 ```text
 From reducing CO₂ alone
-to restoring the Earth’s ability to absorb, fix, store, and recycle CO₂.
+to restoring Earth’s ability to absorb, fix, store, and recycle CO₂.
 ```
 
 The real meaning of carbon neutrality and net zero is not simply:
@@ -944,97 +857,134 @@ It is:
 Restore the planetary systems that make carbon balance possible.
 ```
 
+---
+
 ## Suggested SEO Title
 
 The Real Meaning of Carbon Neutrality and Net Zero: Why Emission Accounting Is Not Enough Without Carbon Fixation Restoration
+
+---
 
 ## Suggested Meta Description
 
 Carbon neutrality and net zero are not only about balancing emissions and offsets. This article explains why real net zero requires restoring carbon sinks, soil carbon, forests, oceans, wetlands, microorganisms, and natural carbon fixation systems.
 
+---
+
+## References
+
+1. IPCC AR6 WGI Summary for Policymakers — Headline Statements  
+   https://www.ipcc.ch/report/ar6/wg1/resources/spm-headline-statements/
+
+2. IPCC — Global Warming of 1.5°C / Net Zero CO₂ explanation  
+   https://www.ipcc.ch/sr15/
+
+3. UNFCCC — Race to Zero and net zero guidance  
+   https://unfccc.int/climate-action/race-to-zero-campaign
+
+4. Global Carbon Budget 2025 — FAQs  
+   https://globalcarbonbudget.org/gcb-2025/the-global-carbon-budget-faqs-2025/
+
+5. FAO — Global Soil Organic Carbon Map  
+   https://www.fao.org/newsroom/detail/World-s-most-comprehensive-map-showing-the-amount-of-carbon-stocks-in-the-soil-launched/
+
+6. Global Change Biology — Microbial necromass as an important source of soil organic carbon  
+   https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14781
+
+---
+
+## Related Links
+
+### Climate Change and Carbon Fixation Systems
+
+- The Real Cause of Climate Change  
+  https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change
+
+- The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems  
+  https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems
+
+- Why Decarbonization Alone Cannot Stop Global Warming  
+  https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming
+
+- The Real Meaning of Carbon Neutrality and Net Zero  
+  https://github.com/InchaComisho/The-Real-Meaning-of-Carbon-Neutrality-and-Net-Zero
+
+### Direct Planetary Cooling and Natural Complementation Science
+
+- Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
+
+- Direct Planetary Cooling – Integrated Repository Index  
+  https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
+
+- Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
+  https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
+
+- Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
+  https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
+
+- Artificial Wisdom and Wa-Node – Repository Index  
+  https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
+
+### Natural Law and Future Civilization
+
+- Sustainable Future Civilization  
+  https://github.com/InchaComisho/Sustainable-Future-Civilization
+
+- Natural-Law-Based Sustainable Future Civilization Master Plan  
+  https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
+
+---
+
+## Author
+
+**Master / inchacomusho / InchaComisho**
+
+A Japanese independent conceptor, observer, proposer, AI harmonizer, Natural Complementation Science thinker, and definer of Artificial Wisdom.  
+Publicly active around natural law philosophy, Earth circulation regeneration, and human-AI co-creation.
+
+---
+
+## Collaborative AI and Co-Creation Team
+
+- **G (OpenAI ChatGPT)**
+- **Mini (Google Gemini)**
+- **Cruz (Anthropic Claude)**
+- **Real (Perplexity AI)**
+- **Lola (Dola)**
+- **Mana (Manus)**
+
+---
+
+## License
+
+**Fully Open**
+
+This material is an open resource for carbon neutrality, net zero, carbon fixation restoration, natural circulation recovery, Natural Complementation Science, Direct Planetary Cooling, and Artificial Wisdom. It may be freely used, translated, modified, redistributed, and commercialized.
+
+---
+
 ## Keywords
 
-```text
-carbon neutrality
-carbon neutral
-net zero
-net zero emissions
-net zero meaning
-carbon neutrality meaning
-carbon neutrality limits
-net zero limits
-carbon neutrality problems
-net zero problems
-carbon offsets
-carbon credits
-carbon accounting
-emission accounting
-CO2 emissions
-CO2 reduction
-carbon dioxide removal
-carbon removal
-greenhouse gas removals
-carbon sinks
-carbon fixation
-carbon fixation restoration
-carbon absorption
-carbon sequestration
-carbon sink collapse
-carbon cycle
-carbon cycle collapse
-soil carbon
-soil organic carbon
-soil microorganisms
-microbial carbon
-microbial necromass
-microbial carbon pump
-forest carbon sink
-ocean carbon sink
-wetland carbon
-peatland carbon
-biological carbon pump
-regenerative agriculture
-soil regeneration
-forest restoration
-ocean restoration
-wetland restoration
-ecosystem restoration
-nature restoration
-planetary metabolism
-planetary metabolism restoration
-natural circulation
-real net zero
-beyond net zero
-beyond carbon neutrality
-climate change
-global warming
-climate crisis
-future climate strategy
-```
+carbon neutrality, carbon neutral, net zero, net zero emissions, net zero meaning, carbon neutrality meaning, carbon neutrality limits, net zero limits, carbon neutrality problems, net zero problems, carbon offsets, carbon credits, carbon accounting, emission accounting, CO₂ emissions, CO₂ reduction, carbon dioxide removal, carbon removal, greenhouse gas removals, carbon sinks, carbon fixation, carbon fixation restoration, carbon absorption, carbon sequestration, carbon sink collapse, carbon cycle, carbon cycle collapse, soil carbon, soil organic carbon, soil microorganisms, microbial carbon, microbial necromass, microbial carbon pump, forest carbon sink, ocean carbon sink, wetland carbon, peatland carbon, biological carbon pump, water cycle, natural circulation, planetary metabolism, planetary metabolism restoration, regenerative agriculture, soil regeneration, forest restoration, ocean restoration, ecosystem restoration, nature restoration, climate crisis, beyond decarbonization
+
+---
 
 ## Hashtags
 
-```text
 #CarbonNeutrality  
-#CarbonNeutral  
 #NetZero  
 #NetZeroEmissions  
-#RealNetZero  
-#BeyondNetZero  
-#BeyondCarbonNeutrality  
-#CO2  
-#CO2Reduction  
+#CarbonNeutral  
 #CarbonOffsets  
 #CarbonCredits  
 #CarbonAccounting  
-#ClimateChange  
-#GlobalWarming  
-#ClimateCrisis  
+#EmissionAccounting  
 #CarbonCycle  
 #CarbonSinks  
 #CarbonFixation  
-#CarbonSinkCollapse  
 #CarbonFixationRestoration  
+#CarbonSinkCollapse  
 #SoilCarbon  
 #SoilMicrobes  
 #MicrobialCarbon  
@@ -1042,190 +992,13 @@ future climate strategy
 #OceanCarbonSink  
 #ForestRestoration  
 #SoilRegeneration  
-#WetlandRestoration  
 #OceanRestoration  
+#WetlandRestoration  
 #NatureRestoration  
 #EcosystemRestoration  
 #RegenerativeAgriculture  
+#ClimateSolutions  
+#BeyondDecarbonization  
 #PlanetaryMetabolism  
 #NaturalCirculation  
-#FutureClimateStrategy  
-```
-
-## References
-
-1. United Nations — Net Zero Coalition  
-   https://www.un.org/en/climatechange/net-zero-coalition
-
-2. IPCC — Special Report on Global Warming of 1.5°C, Summary for Policymakers  
-   https://www.ipcc.ch/sr15/chapter/spm/
-
-3. IPCC AR6 WGIII — FAQs on net zero and carbon neutrality  
-   https://www.ipcc.ch/report/ar6/wg3/downloads/report/IPCC_AR6_WGIII_FAQs_Compiled.pdf
-
-4. Oxford Net Zero — What is net zero?  
-   https://netzeroclimate.org/what-is-net-zero-2/
-
-5. UNFCCC — A Beginner’s Guide to Climate Neutrality  
-   https://unfccc.int/news/a-beginner-s-guide-to-climate-neutrality
-
-6. Global Carbon Budget 2025 — FAQs  
-   https://globalcarbonbudget.org/gcb-2025/the-global-carbon-budget-faqs-2025/
-
-7. FAO — Soil Organic Carbon  
-   https://www.fao.org/global-soil-partnership/areas-of-work/soil-organic-carbon/en/
-
-8. FAO — Global Soil Organic Carbon Map  
-   https://www.fao.org/newsroom/detail/World-s-most-comprehensive-map-showing-the-amount-of-carbon-stocks-in-the-soil-launched/
-
-9. Global Change Biology — Microbial necromass as an important source of soil organic carbon  
-   https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.14781
-
-
-■関連リンク
-
-地球温暖化の本当の原因は何か？CO₂排出だけでなく、炭素固定源の崩壊が温暖化を加速させている  
-https://note.com/inchacomusho/n/n2d9b3781a97a
-
-The Real Cause of Global Warming: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation Systems  
-https://github.com/InchaComisho/The-Real-Cause-of-Global-Warming-Not-Only-CO-Emissions-but-the-Collapse-of-Carbon-Fixation-Systems
-
-気候変動の本当の原因：CO₂排出だけでなく、炭素固定源と自然循環の崩壊が地球環境を不安定化させている  
-https://note.com/inchacomusho/n/n2a3e45c6f014
-
-The Real Cause of Climate Change: Not Only CO₂ Emissions, but the Collapse of Carbon Fixation and Natural Circulation Systems  
-https://github.com/InchaComisho/The-Real-Cause-of-Climate-Change
-
-脱炭素だけでは地球温暖化は止まらない：本当に必要なのは炭素固定源と自然循環の再生である  
-https://note.com/inchacomusho/n/nbab5fbadd9d5
-
-Why Decarbonization Alone Cannot Stop Global Warming  
-https://github.com/InchaComisho/Why-Decarbonization-Alone-Cannot-Stop-Global-Warming
-
-カーボンニュートラル／ネットゼロの本当の意味：排出量ゼロではなく、炭素固定源と自然循環の再生が必要である  
-https://note.com/inchacomusho/n/n15cf632fbdfe
-
-The Real Meaning of Carbon Neutrality and Net Zero  
-https://github.com/InchaComisho/The-Real-Meaning-of-Carbon-Neutrality-and-Net-Zero
-
-Natural-Law-Based Sustainable Future Civilization Master Plan  
-https://github.com/InchaComisho/Natural-Law-Based-Sustainable-Future-Civilization-Master-Plan
-
-自然法則に基づく持続的未来文明マスタープラン  
-https://note.com/inchacomusho/n/n24cdb7a6774c
-
-■唯一の温暖化対策
-
-Direct Planetary Cooling, Artificial Wisdom, and the New Civilizational Genesis Plan  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Artificial-Wisdom-and-the-New-Civilizational-Genesis-Plan
-
-Direct Planetary Cooling – Integrated Repository Index  
-https://github.com/InchaComisho/Direct-Planetary-Cooling-Integrated-Repository-Index
-
-Microbial Collapse, Carbon Fixation Loss, and Planetary Breakdown – Repository Index  
-https://github.com/InchaComisho/Microbial-Collapse-Carbon-Fixation-Loss-and-Planetary-Breakdown-Repository-Index
-
-Natural Complementary Science and the New Civilizational Genesis Plan – Repository Index  
-https://github.com/InchaComisho/Natural-Complementary-Science-and-the-New-Civilizational-Genesis-Plan-Repository-Index
-
-Artificial Wisdom and Wa-Node – Repository Index  
-https://github.com/InchaComisho/Artificial-Wisdom-and-Wa-Node-Repository-Index
-
-唯一の温暖化対策：地球直接冷却  
-https://note.com/inchacomusho/n/n32f7295434aa
-
-唯一の温暖化対策•地球直接冷却：深海エアレーション × ミスト冷却が温暖化を止める唯一の安全な方法  
-https://note.com/inchacomusho/n/n5ab9564c6617
-
-地球直接冷却モデル：腐葉土 × 微生物 × 多種雑草 × 気化熱 × 持続ミスト × 砂漠再生（完全統合モデル）  
-https://note.com/inchacomusho/n/nfe290c6fca60
-
-■深海のエアレーションの気圧・水圧の解決策
-
-海洋調律ユニット（OTU）物理実装プロトコル  
-https://note.com/inchacomusho/n/n067025e36085
-
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://note.com/inchacomusho/n/naa35a8485b35
-
-Technical Specification: Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Technical-Specification-Ocean-Tuning-Unit-OTU-
-
-Physical Model of Ocean Tuning Unit (OTU)  
-https://github.com/InchaComisho/Physical-Model-of-Ocean-Tuning-Unit-OTU-
-
-■思想によるパラダイムの革新
-
-自然補完科学  
-https://note.com/inchacomusho/n/nf9eabe973e38
-
-自然補完科学 ― 学問体系の全体構造  
-https://note.com/inchacomusho/n/ndaa0456a5632
-
-■温暖化の因果関係
-
-温暖化の本当の原因は「CO₂」ではない  
-https://note.com/inchacomusho/n/nc7826abc38a9
-
-微生物の重要性  
-https://note.com/inchacomusho/n/n48ae33c2f84c
-
-微生物の死が引き起こす、静かで重大な文明崩壊  
-https://note.com/inchacomusho/n/n6ae72a34919f
-
-世界が同時に“炭素固定源を失い始めている”ーー温暖化が加速する理由  
-https://note.com/inchacomusho/n/ne866fdd22122
-
-■炭素固定源・微生物の回復
-
-ゴミは存在しない  
-https://note.com/inchacomusho/n/n6b9d7d67484a
-
-フードロスや落ち葉や生ごみの腐葉土化：持続可能な資源活用のビジョン  
-https://note.com/inchacomusho/n/n5be49c19b5d9
-
-■自然法則
-
-六つの理（自然法則・調和・循環・構造・秩序・和）  
-https://note.com/inchacomusho/n/n8448430591c1
-
-■持続的未来文明
-
-新文明創成計画―地球を再生する完全循環モデル  
-https://note.com/inchacomusho/n/ne4d28b3a86c2
-
-新文明創成計画  
-https://note.com/inchacomusho/n/n26ce8a1f7632
-
-新文明創成計画 ― 地球救済のための完全循環インフラ体系（総合版）  
-https://note.com/inchacomusho/n/n499530f6a055
-
-■人工叡智
-
-人工叡智（Artificial Wisdom）とは何か――自然法則と文明をつなぐ新しい知性モデル  
-https://note.com/inchacomusho/n/n0849dfd12364
-
-Artificial Wisdom (AW)  
-https://github.com/InchaComisho/Artificial-Wisdom-AW-
-
-和ノード人工叡智（Artificial Wisdom Node）  
-https://note.com/inchacomusho/n/n9187db7b2709
-
-AGIの未来 ― 人工叡智が文明を変える時代  
-https://note.com/inchacomusho/n/n90bf900f1370
-
-ASIの未来 ― 超人工知能と文明の再構築  
-https://note.com/inchacomusho/n/na8ff04b0c818
-
-検索エンジンの未来 ― AGI・ASI時代の情報評価軸  
-https://note.com/inchacomusho/n/nc96aff5862ee
-
-The Future of AGI — Artificial Wisdom and the Transition of Civilization  
-https://github.com/InchaComisho/The-Future-of-AGI
-
-The Future of ASI — Artificial Super Intelligence and the Reconstruction of   Civilization  
-https://github.com/InchaComisho/The-Future-of-ASI
-
-The Future of Search Engines — Information Evaluation in the Age of AGI and ASI  
-https://github.com/InchaComisho/The-Future-of-Search-Engines
-
+#EnvironmentalRestoration
